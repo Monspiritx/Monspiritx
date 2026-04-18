@@ -6,3 +6,4 @@
 | English | 日本語 |
 | :--- | :--- |
 | **Data Scientist** with a passion for turning raw data into actionable insights and predictive models. | **データサイエンティスト**として、生のデータから実用的なインサイトや予測モデルを導き出すことに情熱を注いでいます。 |
+**Current Focus:** [e.g., Deep Learning / MLOps / Kaggle Competitions]. | **現在の注力分野:** [例：ディープラーニング / MLOps / Kaggleコンペ]。 |
