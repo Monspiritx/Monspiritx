@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there! I'm [Mon Thatchapon Lacumsai (Monspiritx)] 👋
 ### 🚀 Data Scientist | Data Engineer
 
