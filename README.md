@@ -31,12 +31,6 @@
 
 ---
 
-## 📈 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Monspiritx]&show_icons=true&theme=dracula" alt="Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Monspiritx]&layout=compact&theme=dracula" alt="Top Langs" height="160" />
-</p>
-
 ## 📫 Connect with me / 連絡先
 - **LinkedIn:** [Mon](https://www.linkedin.com/in/thatchapon-lacumsai/)
 - **Instagram** [Mon](https://www.instagram.com/monspiritx/)
