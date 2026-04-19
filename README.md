@@ -9,20 +9,16 @@
   <img src="https://img.shields.io/badge/Language-English%20|%20Japanese-E040FB?style=for-the-badge&logo=translate&logoColor=white" alt="Language Proficiency" />
 </p>
 
-## 🌏 About Me / 自己紹介
+## 👨‍💻 About Me / 自己紹介
 
-| English | 日本語 |
-| :--- | :--- |
-| **Data Scientist** with a passion for turning raw data into actionable insights and predictive models. | **データサイエンティスト**として、生のデータから実用的なインサイトや予測モデルを導き出すことに情熱を注いでいます。 |
-**Current Focus:** [e.g., Deep Learning / MLOps / Kaggle Competitions]. | **現在の注力分野:** [例：ディープラーニング / MLOps / Kaggleコンペ]。 |
+<p align="justify">
+  I am a dedicated <strong>Data Science Student</strong> at <strong>King Mongkut's Institute of Technology Ladkrabang (KMITL)</strong>, passionate about unearthing insights from complex data. I love blending analytical skills with my growing global perspective.
+</p>
+<p align="justify">
+  現在、<strong>モンクット王ラカバン工科大学 (KMITL) </strong>でデータサイエンスを専攻しています。データの分析や、実社会の課題を解決するための機械学習モデルの構築に情熱を持っています。語学力も磨き、グローバルな活躍を目指しています。
+</p>
 
 ---
-
-## 📚 Education & Languages / 教育と語学
-
-<p align="center">
-  <imgsrc="https://img.shields.io/badge/University-KMITL-DF7E1A?style=for-the-badge&logo=educative&logoColor=white" alt="KMITL" />
-</p>
 
 ## 📚 Language Proficiency / 語学能力
 
