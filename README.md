@@ -1,5 +1,13 @@
-# Hi there! I'm [Mon Thatchapon Lacumsai (Monspiritx)] 👋
-### 🚀 Data Scientist | Data Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=[Mon Thatchapon Lacumsai (Monspiritx)]%20📊&fontSize=60&animation=fadeIn" alt="Header" />
+</p>
+
+<h1 align="center">Hi there! I'm [Mon Thatchapon Lacumsai (Monspiritx)] 👋</h1>
+<h3 align="center">A Passionate Data Science Student at KMITL</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-English%20|%20Japanese-E040FB?style=for-the-badge&logo=translate&logoColor=white" alt="Language Proficiency" />
+</p>
 
 ## 🌏 About Me / 自己紹介
 
