@@ -10,6 +10,14 @@
 
 ---
 
+## 📚 Language Proficiency / 語学能力
+
+- **English:** Intermediate (**CEFR B1**) - Capable of reading technical documentation and communication.
+- **Japanese:** Lower-Intermediate (**JLPT N5**) - Currently studying for **N4-3/Intermediate level**.
+- **Thai:** Native
+
+---
+
 ## 🛠 Tech Stack / スキルセット
 
 ### 🐍 Data Science Core
