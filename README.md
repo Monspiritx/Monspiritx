@@ -18,6 +18,12 @@
 
 ---
 
+## 📚 Education & Languages / 教育と語学
+
+<p align="center">
+  <imgsrc="https://img.shields.io/badge/University-KMITL-DF7E1A?style=for-the-badge&logo=educative&logoColor=white" alt="KMITL" />
+</p>
+
 ## 📚 Language Proficiency / 語学能力
 
 - **English:** Intermediate (**CEFR B1**) - Capable of reading technical documentation and communication.
