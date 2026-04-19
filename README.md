@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=[Mon Thatchapon Lacumsai (Monspiritx)]%20📊&fontSize=60&animation=fadeIn" alt="Header" />
+  <img src="https://i.pinimg.com/736x/92/97/a9/9297a95579028a0534b681d1ee0fc8e6.jpg" alt="Header" />
 </p>
 
 <h1 align="center">Hi there! I'm [Mon Thatchapon Lacumsai (Monspiritx)] 👋</h1>
@@ -50,3 +50,7 @@
 ## 📫 Connect with me / 連絡先
 - **LinkedIn:** [Mon](https://www.linkedin.com/in/thatchapon-lacumsai/)
 - **Instagram** [Mon](https://www.instagram.com/monspiritx/)
+
+<p align="center">
+  <em>“Connecting Data, Bridging Worlds.”</em>
+</p>
