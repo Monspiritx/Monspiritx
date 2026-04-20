@@ -27,6 +27,23 @@
 - **Thai:** Native
 
 ---
+---
+
+## 🚀 Highlight Project / 主要プロジェクト
+
+### [football-chatbot](https://github.com/Monspiritx/football-chatbot) 🤖⚽
+**A Full-stack Conversational AI for Football Enthusiasts.**
+
+- **Description:** A robust chatbot application featuring a separated Backend and Frontend architecture, fully containerized using Docker.
+- **Key Features:**
+    - Modular structure with clear `backend` and `frontend` separation.
+    - Deployment-ready using `docker-compose`.
+    - Environment-based configuration for secure API handling.
+- **日本語紹介:** - サッカーファンのための会話型AIチャットボット。
+    - BackendとFrontendを分離したモダンなアーキテクチャを採用。
+    - Dockerコンテナ化により、環境構築が容易でスケーラブルな設計を実現。
+
+---
 
 ## 🛠 Tech Stack / スキルセット
 
@@ -46,6 +63,13 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monspiritx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
