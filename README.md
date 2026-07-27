@@ -50,6 +50,16 @@
 - **Stack:** Python · PyTorch · scikit-learn · pandas · Jupyter
 ---
  
+### 🛒 [SME Retail DS Solution](https://github.com/Monspiritx/sme-retail-ds-solution)
+**Inventory-Demand Co-optimization for SME Retail Revenue Maximization**
+- **3 models in 1 pipeline:** Demand Forecasting (LightGBM, MAPE +20.2% vs baseline) · Lead Time Prediction · Expiry Risk Engine
+- **Output:** Actionable PO recommendations with urgency flags — not just insights, but decisions
+- **Key findings:** dairy + beverage = 48% revenue · discount sweet spot 10–15% · 34 POs already expired (28%)
+- **MLOps:** Airflow DAG (weekly retrain) · MLflow experiment tracking · Docker · Great Expectations
+- **Dashboard:** 4-page Streamlit app — Summary · PO Recommendation · Demand Forecast · Expiry Risk Monitor
+- **Stack:** Python · LightGBM · SHAP · Streamlit · Airflow · Docker · MLflow
+---
+ 
 ### [⚽ football-chatbot](https://github.com/Monspiritx/football-chatbot)
 **A Full-stack Conversational AI for Football Enthusiasts**
 - Separated Backend/Frontend architecture, fully containerized with Docker
@@ -81,7 +91,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
  
 ---
  
@@ -100,4 +113,3 @@
 <p align="center">
   <em>"Connecting Data, Bridging Worlds."</em>
 </p>
- 
