@@ -29,7 +29,7 @@
  
 ## 💼 Experience / 経験
  
-### 🏢 Data Science Intern — BOTNOI *(Jun – Jul 2025)*
+### 🏢 Data Science Intern — BOTNOI *(May – Jul 2026)*
 > AI & Conversational AI platform (AnnotateAI product)
  
 - Built end-to-end **Fraud Detection pipeline** for annotator behavior analysis on AnnotateAI platform
