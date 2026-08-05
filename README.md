@@ -24,7 +24,7 @@
  
 - **Thai:** Native 🇹🇭
 - **English:** Intermediate (**CEFR B1**) — Technical documentation & communication
-- **Japanese:** Elementary–Lower-Intermediate (**JLPT N5→N4 in progress**) — Actively studying toward N3
+- **Japanese:** Elementary–Lower-Intermediate (**JLPT N4→N3 in progress**) — Actively studying toward N3
 ---
  
 ## 💼 Experience / 経験
