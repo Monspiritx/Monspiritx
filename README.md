@@ -16,7 +16,7 @@
   I am a <strong>4th-year Data Science Student</strong> at <strong>King Mongkut's Institute of Technology Ladkrabang (KMITL)</strong>, currently completing my internship at <strong>BOTNOI</strong> (ending July 31, 2026) as a Data Scientist. I enjoy building end-to-end ML pipelines — from raw data to production-ready inference — and bridging technical insights with business impact.
 </p>
 <p align="justify">
-  現在、<strong>モンクット王ラカバン工科大学 (KMITL)</strong> でデータサイエンスを専攻する4年生です。<strong>BOTNOI</strong>でデータサイエンティストとしてインターンシップ中（2025年7月31日終了予定）で、機械学習パイプラインの構築と、データからビジネス価値を引き出すことに情熱を持っています。将来は日本でデータサイエンティストとして活躍することを目指しています。
+  現在、<strong>モンクット王ラカバン工科大学 (KMITL)</strong> でデータサイエンスを専攻する4年生です。<strong>BOTNOI</strong>でデータサイエンティストとしてインターンシップ中（2026年7月31日終了予定）で、機械学習パイプラインの構築と、データからビジネス価値を引き出すことに情熱を持っています。将来は日本でデータサイエンティストとして活躍することを目指しています。
 </p>
 ---
  
